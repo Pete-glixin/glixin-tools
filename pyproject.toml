@@ -11,3 +11,8 @@ requires-python = ">=3.8"
 dependencies = [
     "requests>=2.25.0"
 ]
+
+[project.urls]
+Homepage = "https://glixin.com/glixin-tools.html"
+Repository = "https://github.com/Pete-glixin/glixin-tools"
+Documentation = "https://glixin.com/glixin-tools.html"
