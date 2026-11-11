@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+glixin/__init__.py
+glixin/client.py
+glixin_tools.egg-info/PKG-INFO
+glixin_tools.egg-info/SOURCES.txt
+glixin_tools.egg-info/dependency_links.txt
+glixin_tools.egg-info/requires.txt
+glixin_tools.egg-info/top_level.txt
