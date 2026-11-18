@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "glixin-tools"
-version = "0.1.0"
-description = "Lightweight Python client for Glixin AWS Marketplace APIs"
+version = "0.2.0"
+description = "Lightweight Python client for Glixin Sovereign PE, SPD, and SWD APIs"
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
@@ -13,6 +13,6 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://glixin.com/glixin-tools.html"
+Homepage = "https://glixin.com/"
 Repository = "https://github.com/Pete-glixin/glixin-tools"
-Documentation = "https://glixin.com/glixin-tools.html"
+Documentation = "https://glixin.com/"
